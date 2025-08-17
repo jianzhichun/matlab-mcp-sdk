@@ -301,5 +301,5 @@ MIT License
 
 ## 联系方式
 
-- GitHub Issues: [项目地址]
-- 邮箱: your.email@example.com
+- GitHub Issues: https://github.com/jianzhichun/matlab-mcp-sdk/issues
+- 邮箱: zzchun12826@gmail.com
